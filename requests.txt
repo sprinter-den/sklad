@@ -1,0 +1,10 @@
+aiogram
+requests
+psutil
+pyqiwip2p
+my_fake_useragent
+pyshorteners
+Pillow
+stdiomask
+pyminifier
+smsactivateru
